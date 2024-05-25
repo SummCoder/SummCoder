@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **SpringBoot, MySql, LLM**
 
-- 📝 I regularly write articles on [frechen026.github.io](frechen026.github.io)
+- 📝 I regularly write articles on [frechen026.github.io]([frechen026.github.io](https://frechen026.github.io))
 
 - 💬 Ask me about **android, SpringBoot**
 
