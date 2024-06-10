@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SummCoder&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![代码](https://github-readme-stats.vercel.app/api/top-langs?username=SummCoder&show_icons=true)
