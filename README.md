@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SummCoder&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![代码](https://github-readme-stats.vercel.app/api/top-langs?username=SummCoder&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=SummCoder&count_private=true&theme=merko&show_icons=true" height="185px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SummCoder&layout=compact&langs_count=8&theme=calm" alt="Top Langs" height="185px" />
