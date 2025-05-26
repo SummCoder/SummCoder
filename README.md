@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently participating in the OSPP 2024 as a contributor for [OpenBlock](https://gitee.com/openblock/openblock).
 
-- 🌱 I’m currently learning **SpringBoot, BDA, LLM**
+- 🌱 I’m currently learning **SpringBoot, LLM, Agent, Workflow**
 
 - 📝 I regularly write articles on [frechen026.github.io](http://frechen026.github.io)
 
-- 💬 Ask me about **android, SpringBoot**
+- 💬 Ask me about **MCP, SpringBoot, Agent**
 
-- 📫 How to reach me **2404174187@qq.com**
 <p align="left">
 </p>
 
