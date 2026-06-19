@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently participating in the OSPP 2024 as a contributor for [OpenBlock](https://gitee.com/openblock/openblock).
 
-- 🌱 I’m currently learning **SpringBoot, LLM, Agent, Workflow**
+- 🌱 I’m currently learning **LLM, Agent, Post Training**
 
 - 📝 I regularly write articles on [frechen026.github.io](http://frechen026.github.io) & [https://frechen027.github.io/](https://frechen027.github.io/)
 
-- 💬 Ask me about **MCP, SpringBoot, Agent**
+- 💬 Ask me about **MCP, Post Training, Agent**
 
 - 📫 How to reach me: 2404174187@qq.com
 
